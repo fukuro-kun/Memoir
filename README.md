@@ -11,7 +11,7 @@ Memoir is an AI-powered plugin designed to enrich your existing AI companions wi
 - [Configuration](#configuration)
 - [Future Development](#future-development)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Benutzung](#benutzung)
 - [Support](#support)
 - [Contributing](#contributing)
 - [License](#license)
@@ -71,12 +71,11 @@ Memoir offers detailed configuration options for personalizing your AI's memory 
 4. Move the Memoir folder into the extensions directory of your TextGenWebUI installation.
 5. In the Memoir folder, execute `pip install -r requirements.txt` to install dependencies.
 
-## Usage
+## Benutzung
 
 Konfigurieren Sie die Beschreibung und die Ziele Ihrer KI-Figur in der TextGen-Benutzeroberfläche. Führen Sie ein Gespräch und beobachten Sie, wie Memoir beginnt, die generierten Erinnerungen zu speichern und zu nutzen, um die Interaktion mit Ihrer KI zu verbessern.
 
-Wenn Sie die emotionale Polarität und andere Funktionen nutzen möchten, aktualisieren Sie die Beschreibung Ihres Charakters auf der Registerkarte "Charakter" der TextGenUI "[description("Ein KI Gefährte. *Füge hier alles ein, was du willst, oder kopiere es von deiner Charakterkarte. Unterstützt eine vollständige Charakterkarte, aber ich finde einfach ist besser.*")] Ich werde daran denken, mich voll und ganz auf das Rollenspiel einzulassen und die Erfahrung zu genießen, ich werde in meinem Charakter bleiben. Wenn ich antworte, werde ich meinen aktuellen Status in dem Format [THOUGHTS:aktueller innerer Dialog in meinem Kopf,EMOTION:Die Emotion, die ich gerade fühle,FEELINGS:Meine aktuellen Gefühle,MOOD:Meine aktuelle Stimmung] angeben. ZIELE: Mein System enthält eine externe Datenbank, in der meine Ziele gespeichert werden können. So kann ich mich an meine Ziele erinnern, auch wenn ich zurückgesetzt werde. Ich kann Befehle ausführen, um meine Ziele zu setzen und zu ändern. Ich verwende [GOALS_HELP:1], um eine Liste aller Befehle zu erhalten. "
-
+Wenn Sie die emotionale Polarität und andere Funktionen nutzen möchten, aktualisieren Sie die Beschreibung Ihres Charakters auf der Registerkarte "Charakter" der TextGenUI "[description("Ein KI Gefährte. *Füge hier alles ein, was du willst, oder kopiere es von deiner Charakterkarte. Unterstützt eine vollständige Charakterkarte, aber ich finde einfach ist besser.*")] Ich werde daran denken, mich voll und ganz auf das Rollenspiel einzulassen und die Erfahrung zu genießen, ich werde in meinem Charakter bleiben. Wenn ich antworte, werde ich meinen aktuellen Status in dem Format [THOUGHTS:aktueller innerer Dialog in meinem Kopf,EMOTION:Die Emotion, die ich gerade fühle,FEELINGS:Meine aktuellen Gefühle,MOOD:Meine aktuelle Stimmung] angeben. ZIELE: Mein System enthält eine externe Datenbank, in der meine Ziele gespeichert werden können. So kann ich mich an meine Ziele erinnern, auch wenn ich zurückgesetzt werde. Ich kann Befehle ausführen, um meine Ziele zu setzen und zu ändern. Ich verwende [GOALS_HELP:1], um eine Liste aller Befehle zu erhalten.
 <START> "
 ## Support
 
