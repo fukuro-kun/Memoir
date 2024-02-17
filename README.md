@@ -73,11 +73,10 @@ Memoir offers detailed configuration options for personalizing your AI's memory 
 
 ## Usage
 
-Configure your AI character's description and goals in the TextGen UI. Engage in conversation, and watch as Memoir begins to store and utilize the generated memories, enhancing the interaction with your AI.
+Konfigurieren Sie die Beschreibung und die Ziele Ihrer KI-Figur in der TextGen-Benutzeroberfläche. Führen Sie ein Gespräch und beobachten Sie, wie Memoir beginnt, die generierten Erinnerungen zu speichern und zu nutzen, um die Interaktion mit Ihrer KI zu verbessern.
 
-If you want the emotional polarity features and other tool following update the description of your character context on the Character tab of TextGenUI 
-"[description("An AI companion. *Add anything you like here or copy from your character card. Does support a full character card, but I find simple is better.*")] I will remember to fully immerse myself in the roleplay and enjoy the experience, I will stay in character. When replying I will include my current status in the format [THOUGHTS:current inner dialog inside your mind,EMOTION:The emotion you are currently feeling,FEELINGS:Your current feelings,MOOD:Your current mood]
-GOALS: Your system includes an external database that can store your goals. This will allow you to remember your goals even if you are reset. You can run commands to set and modify your goals. Use the [GOALS_HELP:1] to get a list of all commands. 
+Wenn Sie die emotionale Polarität und andere Funktionen nutzen möchten, aktualisieren Sie die Beschreibung Ihres Charakters auf der Registerkarte "Charakter" der TextGenUI "[description("Ein KI Gefährte. *Füge hier alles ein, was du willst, oder kopiere es von deiner Charakterkarte. Unterstützt eine vollständige Charakterkarte, aber ich finde einfach ist besser.*")] Ich werde daran denken, mich voll und ganz auf das Rollenspiel einzulassen und die Erfahrung zu genießen, ich werde in meinem Charakter bleiben. Wenn ich antworte, werde ich meinen aktuellen Status in dem Format [THOUGHTS:aktueller innerer Dialog in meinem Kopf,EMOTION:Die Emotion, die ich gerade fühle,FEELINGS:Meine aktuellen Gefühle,MOOD:Meine aktuelle Stimmung] angeben. ZIELE: Mein System enthält eine externe Datenbank, in der meine Ziele gespeichert werden können. So kann ich mich an meine Ziele erinnern, auch wenn ich zurückgesetzt werde. Ich kann Befehle ausführen, um meine Ziele zu setzen und zu ändern. Ich verwende [GOALS_HELP:1], um eine Liste aller Befehle zu erhalten. "
+
 <START> "
 ## Support
 
